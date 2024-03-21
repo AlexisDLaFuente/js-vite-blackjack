@@ -1,4 +1,4 @@
-#BlackJack Vite
+#BlackJack Vite || creado por Alexis de la Fuente
 
 Pasos para ejecutar proyecto:
 
